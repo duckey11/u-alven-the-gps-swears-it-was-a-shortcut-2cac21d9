@@ -8,7 +8,7 @@ import os
 
 ENTRY = (
     "The map swore this cul-de-sac was a shortcut, so I believed it, "
-    "and frankly the bride looked thrilled to have a car in her vows."
+    "and frankly the bride looked thrilled to have a getaway car in her vows."
 )
 
 assert 1 <= len(ENTRY) <= 200, len(ENTRY)
